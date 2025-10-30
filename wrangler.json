@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "db-test-project",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7b8768ee-092c-4750-b4b4-103fa35b545e",
+      "database_name": "test-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
